@@ -2,7 +2,7 @@ def a():
 	pass
 
 def b():
-	pass
+	print("TR3YWAY")
 
 def c():
 	pass
