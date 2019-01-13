@@ -8,4 +8,4 @@ def c():
 	pass
 
 def d():
-	pass
+	print("i'm the best holy")
