@@ -5,7 +5,7 @@ def b():
 	pass
 
 def c():
-	pass
+	print("i love computer science")
 
 def d():
 	pass
