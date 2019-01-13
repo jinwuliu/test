@@ -9,3 +9,6 @@ def c():
 
 def d():
 	print("i'm the best holy")
+
+def e():
+	print("i deserve another one cuz im just better")	
