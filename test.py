@@ -1,5 +1,5 @@
 def a():
-	pass
+	print('Jinwu is swag')
 
 def b():
 	print("TR3YWAY")
@@ -8,4 +8,4 @@ def c():
 	pass
 
 def d():
-	pass
+	print("i'm the best holy")
